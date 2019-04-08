@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_Biblioteca", "00_Bibliot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DeserializarXML", "02_DeserializarXML\02_DeserializarXML.csproj", "{90B4EC74-3D52-494C-9D10-64B8874EE27F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_SerializarJSON", "00_SerializarJSON\00_SerializarJSON.csproj", "{319A97E2-7F71-4B02-8093-E339C32A2D9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_SerializarJSON", "00_SerializarJSON\03_SerializarJSON.csproj", "{319A97E2-7F71-4B02-8093-E339C32A2D9B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_DeserializarJSON", "04_DeserializarJSON\04_DeserializarJSON.csproj", "{3DB1EA78-5609-472C-84B8-BAF4A838ABA7}"
 EndProject

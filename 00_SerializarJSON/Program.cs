@@ -7,7 +7,7 @@ using System.Web.Script.Serialization;
 using _00_Biblioteca;
 using System.IO;
 
-namespace _00_SerializarJSON
+namespace _03_SerializarJSON
 {
     class Program
     {

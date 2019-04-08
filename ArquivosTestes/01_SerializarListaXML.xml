@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario>
+    <Nome>João Costa Silva</Nome>
+    <CPF>345.575.567-22</CPF>
+    <Email>joao@teste.com</Email>
+  </Usuario>
+  <Usuario>
+    <Nome>José Costa Silva</Nome>
+    <CPF>222.222.222-22</CPF>
+    <Email>jose@teste.com</Email>
+  </Usuario>
+</ArrayOfUsuario>
